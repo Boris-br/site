@@ -18,17 +18,16 @@ let arrOne = [
 console.log(arrOne[1]);
 console.log(arrOne[5]); // undefined
 
-/*
 let arrTwo = [
-	"Коля",
-	{
-		type: "JS",
-		age: 36
-	},
-	true,
-	function () {
-		console.log('Привет, я Коля');
-	}
+  "Коля",
+  {
+    type: "JS",
+    age: 36,
+  },
+  true,
+  function () {
+    console.log("Привет, я Коля");
+  },
 ];
 
 console.log(arrTwo);
@@ -39,13 +38,12 @@ arrTwo[3]();
 
 // Многомерные массивы
 let matrix = [
-	[1, 2, 3],
-	[4, 5, 6],
-	[7, 8, 9]
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9],
 ];
 console.log(matrix);
 console.log(matrix[0][1]);
-*/
 //========================================================================================================================================================
 
 /*
